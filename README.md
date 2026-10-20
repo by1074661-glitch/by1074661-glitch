@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there, I'm Abdullah! 👋
 
-<!--
-**by1074661-glitch/by1074661-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am a passionate developer currently learning and building new projects.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my first projects on GitHub.
+- 🌱 I’m currently learning Python and Web Development.
+- 💬 Ask me about anything, I am happy to help!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Languages and Tools:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</p>
+
+#### 📫 How to reach me:
+- **Email:** (by1074661@gmail.com)
+- **Location:** Syria 🇸🇾
